@@ -1,0 +1,6 @@
+File Comune
+<<<<<<< HEAD
+Feature3 nuovo modifica
+=======
+Modifica feature 4
+>>>>>>> feature4
